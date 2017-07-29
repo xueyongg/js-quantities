@@ -1,6 +1,6 @@
 {
   "name": "parse-quantities",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Expand a string with quantities",
   "main": "index.js",
   "scripts": {
@@ -22,5 +22,8 @@
   "bugs": {
     "url": "https://github.com/mugendi/js-quantities/issues"
   },
-  "homepage": "https://github.com/mugendi/js-quantities#readme"
+  "homepage": "https://github.com/mugendi/js-quantities#readme",
+  "dependencies": {
+    "lodash": "^4.17.4"
+  }
 }
