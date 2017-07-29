@@ -8,7 +8,7 @@ It's actually very simple to use...
 
 ```javascript
 
-var parse_quantity = require('js-quantities-all');
+var parse_quantity = require('parse-quantities');
 
 
 var measure = '5GB';
