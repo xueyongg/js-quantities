@@ -1,0 +1,85 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "js-quantities-all",
+        "scope": null,
+        "escapedName": "js-quantities-all",
+        "name": "js-quantities-all",
+        "rawSpec": "",
+        "spec": "latest",
+        "type": "tag"
+      },
+      "E:\\projects\\Node\\_MY MODULES\\natural-number"
+    ]
+  ],
+  "_from": "js-quantities-all@latest",
+  "_inCache": true,
+  "_installable": true,
+  "_location": "/js-quantities-all",
+  "_nodeVersion": "8.2.1",
+  "_npmOperationalInternal": {
+    "host": "s3://npm-registry-packages",
+    "tmp": "tmp/js-quantities-all-1.0.0.tgz_1501335903698_0.13655811338685453"
+  },
+  "_npmUser": {
+    "name": "nguru",
+    "email": "ngurumugz@gmail.com"
+  },
+  "_npmVersion": "3.10.6",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "js-quantities-all",
+    "scope": null,
+    "escapedName": "js-quantities-all",
+    "name": "js-quantities-all",
+    "rawSpec": "",
+    "spec": "latest",
+    "type": "tag"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/js-quantities-all/-/js-quantities-all-1.0.0.tgz",
+  "_shasum": "5c3b2aaf52d079e9fae097bd0319006bcd174186",
+  "_shrinkwrap": null,
+  "_spec": "js-quantities-all",
+  "_where": "E:\\projects\\Node\\_MY MODULES\\natural-number",
+  "author": "Anthony Mugendi (ngurumugz@gmail.com)",
+  "bugs": {
+    "url": "https://github.com/mugendi/js-quantities/issues"
+  },
+  "dependencies": {
+    "lodash": "^3.10.0"
+  },
+  "description": "An Edit of: JS-quantities is originally a JavaScript port of Kevin Olbrich's library Ruby Units (http://github.com/olbrich/ruby-units).",
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "shasum": "5c3b2aaf52d079e9fae097bd0319006bcd174186",
+    "tarball": "https://registry.npmjs.org/js-quantities-all/-/js-quantities-all-1.0.0.tgz"
+  },
+  "homepage": "https://github.com/mugendi/js-quantities",
+  "keywords": [
+    "convert",
+    "conversion",
+    "units",
+    "math"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "maintainers": [
+    "nguru <ngurumugz@gmail.com>"
+  ],
+  "name": "y",
+  "optionalDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mugendi/js-quantities.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.0"
+}
