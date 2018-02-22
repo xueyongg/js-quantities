@@ -34,7 +34,6 @@ var UNITS = {
     "<zepto>" :  [["z","Zepto","zepto"], 1e-21, "prefix"],
     "<yocto>" :  [["y","Yocto","yocto"], 1e-24, "prefix"],
 
-    "<1>"     :  [["1", "<1>"], 1, ""],
     /* length units */
     "<meter>" :  [["m","meter","meters","metre","metres"], 1.0, "length", ["<meter>"] ],
     "<inch>"  :  [["in","inch","inches","\""], 0.0254, "length", ["<meter>"]],
